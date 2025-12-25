@@ -1,0 +1,16 @@
+{
+  "ingredients": {
+    "glowboost": [
+      "Vitamin C",
+      "Hyaluronic Acid"
+    ],
+    "product_b": [
+      "Vitamin C",
+      "Niacinamide"
+    ]
+  },
+  "price": {
+    "glowboost": 699,
+    "product_b": 799
+  }
+}
