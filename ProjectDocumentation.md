@@ -419,12 +419,3 @@ For issues or contributions:
 
 ---
 
-## Version History
-
-| Version | Date | Changes |
-|---------|------|---------|
-| 1.0 | Dec 2025 | Initial release with 6 agents, JSON output support, and error handling |
-
----
-
-*Last Updated: December 25, 2025*
